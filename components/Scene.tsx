@@ -1,4 +1,3 @@
-// MEME-DEGEN-FINAL
 "use client";
 
 import { useEffect, useState } from "react";
